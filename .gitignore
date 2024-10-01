@@ -6,6 +6,13 @@ __pycache__/
 # C extensions
 *.so
 
+# Ignore PyCharm IDE files
+.idea/
+*.iml
+
+#.DS_store
+.DS_Store
+
 # Distribution / packaging
 .Python
 build/
