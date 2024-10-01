@@ -63,6 +63,11 @@ To create a new branch and then merge it into the main branch, you can follow th
     
     ```
     git push origin main
+
+    or
+
+    git push origin <Branch Name>
+
     
     ```
     
