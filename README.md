@@ -19,9 +19,8 @@ Outside USA - Yes: 290 - NO: 304
 US: Yes = 65.48%, No = 34.52%
 Other Countries: Yes = 48.74%, No = 51.26%
 
-(https://github.com/Keegawho198/Project-1_Mental-Health/blob/main/output/mental_health_treatment_responses.png)
 
-Inline-style: 
+
 ![alt text](https://github.com/Keegawho198/Project-1_Mental-Health/blob/main/output/mental_health_treatment_responses.png)
 
 
@@ -37,6 +36,9 @@ Also, the slight increase in the number of individuals outside the USA who repor
 Workplaces that offer help for Mental Health (USA vs Outside)
 Data percentages USA yes: 33%, NO: 40%, IDK: 27%
 Outside USA: YES: 18%, no: 63%, IDK: 19%
+
+![alt text](https://github.com/Keegawho198/Project-1_Mental-Health/blob/main/output/HelpOfferedInWorkplaces.png)
+
 
 Our data indicates that 33% of respondents in the USA reported that their workplace offers mental health support, compared to only 18% of respondents from countries outside the USA. 
 
@@ -64,6 +66,10 @@ Have mental disorder + affecting productivity
 Lishi’ analysis
 
 Most people in tech seems to have mental disorder, with about 40.1% responded 'yes' regarding mental health disorders, while 22.8% responded 'maybe,' and only 37.1% said 'no.' 
+
+![alt text](https://github.com/Keegawho198/Project-1_Mental-Health/blob/main/output/HelpOfferedInWorkplaces.png](https://github.com/Keegawho198/Project-1_Mental-Health/blob/main/output/Lishi_f1_Responses%20to%20Mental%20Health%20Disorder%20Inquiry.png
+)
+
 
 40.1% of respondents reported 'yes' which indicates that mental health is a critical issue that may need to be addressed in this industry.
 The 22.8% who responded 'maybe' reflects a level of uncertainty or lack of awareness regarding mental health disorders. This could point to the need for more education and resources about mental health in the workplace.
