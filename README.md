@@ -171,7 +171,7 @@ However
 Only 8% are willing to discuss mental health openly ("Yes").
 So we could see that although organizations are focusing on raising awareness through initiatives like Are You Okay Day, people are still far more comfortable discussing physical health than mental health.
 
-
+![alt text](https://github.com/Keegawho198/Project-1_Mental-Health/blob/main/output/WillingToDiscussHealth.png)
 
 
 
@@ -180,7 +180,7 @@ A survey question about the impact of being identified with a mental health issu
 51% of respondents firmly believe mental health issues could impact careers and 32% believe the health issue may impact careers.
 However, Only 10 % (9% + 1.5%) report actual negative career impacts.
 
-
+![alt text](https://github.com/Keegawho198/Project-1_Mental-Health/blob/main/output/ImpactWithMentalHealthCareer.png)
 
 So a significant majority of people perceive mental health issues as a potential threat to career progression, which may lead to hesitation in disclosing mental health concerns.
 However, there is a clear discrepancy between perception and reality. While many people have concern about career progression, the actual number of those affected is much lower.
