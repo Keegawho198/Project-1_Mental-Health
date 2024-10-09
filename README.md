@@ -8,9 +8,6 @@ Group Members
 - Loku
 
 
-More notes to add later...
-
-
 Analysis
 Keegan
 Mental Health Treatment Seeking (USA vs Outside USA)
@@ -53,6 +50,8 @@ These findings suggest that while a significant portion of individuals in both r
 
 However, the data also highlights a concerning trend: despite having more workplace treatment options for mental health, the USA faces a larger issue with mental health challenges among its workforce.
 
+
+---
 
 
 Have mental disorder + affecting productivity
@@ -100,7 +99,7 @@ This raises the need for awareness and resources related to mental health in the
 
 
 
-
+---
 
 Mental health treatment seeking by gender.
 Loku Analysis
@@ -134,7 +133,7 @@ These insights highlight the need for gender-sensitive approaches to mental heal
 
 
 
-
+---
 
 Jane analysis
 
@@ -159,7 +158,7 @@ Jane analysis
 
 
 
-
+---
 
 # Github commands
 
