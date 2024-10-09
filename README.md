@@ -10,7 +10,9 @@ Group Members
 
 Analysis
 Keegan
-Mental Health Treatment Seeking (USA vs Outside USA)
+
+**Mental Health Treatment Seeking (USA vs Outside USA)**
+
 Our data indicates that individuals in the USA are significantly more likely to seek mental health treatment, with the number of responses seeking help being doubled compared to countries outside the USA.a
 In contrast, there is a slight increase in the number of individuals outside the USA who report not seeking treatment. 
 This disparity may suggest that mental health is prioritized more highly in the USA compared to other countries, highlighting potential cultural differences in the perception and importance of mental health care
@@ -62,7 +64,8 @@ However, the data also highlights a concerning trend: despite having more workpl
 ---
 
 
-Have mental disorder + affecting productivity
+**Have mental disorder + affecting productivity**
+
 Lishi’ analysis
 
 Most people in tech seems to have mental disorder, with about 40.1% responded 'yes' regarding mental health disorders, while 22.8% responded 'maybe,' and only 37.1% said 'no.' 
@@ -113,7 +116,8 @@ This raises the need for awareness and resources related to mental health in the
 
 ---
 
-Mental health treatment seeking by gender.
+**Mental health treatment seeking by gender.**
+
 Loku Analysis
 
 1. First Bar Graph: Overall Mental Health Treatment Seeking by Gender
@@ -155,7 +159,7 @@ These insights highlight the need for gender-sensitive approaches to mental heal
 
 Jane analysis
 
-
+**Title here**
 
 
 
