@@ -162,19 +162,34 @@ Jane analysis
 **Title here**
 
 
+There is a survey done in 2016 and the question is  about  people’s willingness to discuss physical health issue compared to  mental health issue, 
+from the bar chart we could see
+44% of people are somewhat willing to discuss physical health issues ("Maybe Yes").
+25% are willing to discuss physical health openly ("Yes").
+However
+62%  of people are unwilling to discuss mental health issues ("No").
+Only 8% are willing to discuss mental health openly ("Yes").
+So we could see that although organizations are focusing on raising awareness through initiatives like Are You Okay Day, people are still far more comfortable discussing physical health than mental health.
 
 
 
 
 
 
+A survey question about the impact of being identified with a mental health issue on one's career is designed to uncover the reasons why people may be reluctant to discuss mental health.
+51% of respondents firmly believe mental health issues could impact careers and 32% believe the health issue may impact careers.
+However, Only 10 % (9% + 1.5%) report actual negative career impacts.
 
 
 
+So a significant majority of people perceive mental health issues as a potential threat to career progression, which may lead to hesitation in disclosing mental health concerns.
+However, there is a clear discrepancy between perception and reality. While many people have concern about career progression, the actual number of those affected is much lower.
 
 
 
+Understanding the stigma surrounding mental health is crucial, as it remains a significant barrier to open discussions and support. Many individuals still hold the belief that mental health challenges can negatively impact their careers, which reflects the ongoing stigma that persists in professional environments. 
 
+By fostering supportive environments in the workplace, organizations can help employees feel more comfortable seeking help, ultimately promoting a healthier, more inclusive, and productive work culture.  
 
 
 
