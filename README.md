@@ -19,6 +19,8 @@ Outside USA - Yes: 290 - NO: 304
 US: Yes = 65.48%, No = 34.52%
 Other Countries: Yes = 48.74%, No = 51.26%
 
+(https://github.com/Keegawho198/Project-1_Mental-Health/blob/main/output/mental_health_treatment_responses.png)
+
 Our data indicates that individuals in the USA are significantly more likely to seek mental health treatment, with 65.48% of responses indicating they have sought help compared to only 48.74% of individuals outside the USA. Specifically, in the USA, 550 individuals reported seeking treatment (Yes), while 289 did not (No). In contrast, 290 individuals outside the USA sought treatment, while 304 reported not seeking help.
 
 This Visible difference suggests that mental health is prioritized more highly in the USA compared to other countries, highlighting cultural differences in the perception and importance of mental health care. 
