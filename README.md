@@ -175,6 +175,9 @@ To create a new branch and then merge it into the main branch, you can follow th
     
     ```
     git checkout <branch_name>
+
+    Replace `<branch_name>` with the name you want for your new branch.
+
     
     ```
     
@@ -215,9 +218,10 @@ To create a new branch and then merge it into the main branch, you can follow th
     or
 
     git push origin <Branch Name>
-
-    
     ```
-    
 
-Replace `<branch_name>` with the name you want for your new branch.
+
+
+    ReadMe edit
+    https://github.com/adam-p/markdown-here/wiki/Markdown-Cheatsheet#images
+
