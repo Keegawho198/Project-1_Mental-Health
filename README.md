@@ -80,7 +80,7 @@ Given the high percentage of individuals acknowledging mental health disorders, 
 
 A significant majority (88.7%) of individuals with a mental disorder believe that their productivity is affected. Meanwhile, 7.3% are uncertain, and only 4.0% reported that it does not impact their productivity.
 
-
+![alt text](https://github.com/Keegawho198/Project-1_Mental-Health/blob/main/output/Lishi_f2_believe%20your%20productivity%20is%20ever%20affected%20by%20a%20mental%20health%20issue.png)
 
 A significant majority (88.7%) of individuals with a mental disorder believe that their productivity is affected. Meanwhile, 7.3% are uncertain, and only 4.0% reported that it does not impact their productivity.
 
@@ -95,9 +95,11 @@ With the overwhelming majority indicating that their productivity is affected su
 
 
 
-When it comes to the extent to which mental health disorders interfere with work, the responses were as follows: 39.1% indicated minimal influence (1-25%), 31.8% reported moderate influence, 18.2% noted moderate to severe influence, and approximately 10% believed that mental health disorders could have a substantial impact on their work (76-100%).
 
 When it comes to the extent to which mental health disorders interfere with work, the responses were as follows: 39.1% indicated minimal influence (1-25%), 31.8% reported moderate influence, 18.2% noted moderate to severe influence, and approximately 10% believed that mental health disorders could have a substantial impact on their work (76-100%).
+
+![alt text](https://github.com/Keegawho198/Project-1_Mental-Health/blob/main/output/Lishi_f3_Work%20time%20%25%20affected%20by%20a%20mental%20health%20issue.png)
+
 
 The fact that 39.1% of respondents reported minimal influence (1-25%) suggests that a significant portion of individuals may be managing their mental health challenges effectively.
 
@@ -122,6 +124,9 @@ Key Insights:
 From the bar graph, I observe that males are more likely to seek treatment for mental health issues compared to females.
 This supports a common trend observed across industries: males tend to be more proactive in seeking mental health support, while females are more likely to avoid or delay treatment.
 2. Pie Chart: Proportion of Mental Health Treatment Seeking by Gender
+
+![alt text](https://github.com/Keegawho198/Project-1_Mental-Health/blob/main/output/GenderSeekHelpBar.png)
+
 Code Purpose:
 The pie chart gives a proportionate view of percentage males and females have sought mental health treatment overall.
 Each slice of the pie represents the percentage of male and female tech employees who answered 'Yes' to seeking mental health treatment.
@@ -130,6 +135,9 @@ The pie chart visually confirms the findings from the bar graph: a larger portio
 I see that 71% of the individuals who sought mental health treatment are male, while 29% are female.
 The percentage values make it clear that males make up a significantly higher proportion of mental health treatment seekers in the tech industry.
 3. Last Bar Graph: Mental Health Treatment Seeking by Gender (US vs. Non-US)
+
+![alt text](https://github.com/Keegawho198/Project-1_Mental-Health/blob/main/output/GenderCountriesSeekHelp.png)
+
 Code Purpose:
 This graph compares the mental health treatment-seeking behavior between tech workers in the United States and other countries, with the data broken down by gender.
 The grouped bars (one set for the US and one for non-US countries) show how males and females behave in terms of seeking mental health treatment in different regions.
