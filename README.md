@@ -198,6 +198,13 @@ By fostering supportive environments in the workplace, organizations can help em
 
 
 
+Suggestions
+- Make sure employees know that their workplace has a well being program.
+- Reinforce it by mentioning it in meetings and hanging posters around office.
+- For companies that don’t have one, they should start to implement one that is working.
+
+
+
 
 
 ---
